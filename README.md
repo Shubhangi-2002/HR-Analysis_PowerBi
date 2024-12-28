@@ -9,7 +9,8 @@ for this followed steps:
 5. create Dashboard
     
 By using this dynamic dashboard HR of the  Organisation effectively overview the 
-employees status and attrition and make proper decision based on that to 
+employees status 
+and attrition and make proper decision based on that to 
 reduce employee attrition and grow their business as well as profit.
 
  
