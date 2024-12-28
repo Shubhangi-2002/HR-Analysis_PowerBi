@@ -7,7 +7,9 @@ Dashboard Overview: - Department Level Filter - Human Resources, Research & Deve
 Action: -
 Data Cleaning: Use Power Query to Clean the irrelevant and unused data such as removing duplicates, renaming columns, and changing data types. Data Processing: Load and Apply the cleaned data into Power BI. Data Visualization: Create Measures and columns Using DAX functions such as count, sum, calculate, etc.
 
+
 Insights: -
+
 1.The attrition rate is higher in Life Sciences Education which is 38%.
 
 2.Maximum attrition happening in the age group 26-35.
